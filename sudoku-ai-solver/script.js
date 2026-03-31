@@ -1,6 +1,6 @@
 /**
  * SUDOKU AI SOLVER - FULL INTEGRATED ENGINE
- * Features: Puzzle Generation, OpenCV.js Grid Detection, Tesseract OCR, MRV Backtracking
+ * Features: Puzzle Generation, OpenCV.js Grid Detection, MRV Backtracking
  */
 
 // --- STATE MANAGEMENT ---
